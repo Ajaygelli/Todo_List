@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+//reportWebVitals is a utility function that is often used to report performance metrics of your application to various analytics tools
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
